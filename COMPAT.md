@@ -3,7 +3,13 @@
 Built from the `tested:` records in each project's `steam-frame.yml` ([spec](spec/steam-frame-yml.md)). Newest headset version first.
 Each line is one maintainer's or user's report; add yours to the project's manifest.
 
-Generated 2026-11-09.
+Generated 2026-11-16.
+
+## SteamOS 0.5.8, build 20261106.6144341 (beta)
+
+| Project | SteamVR | Result | Tested | Notes |
+|---|---|---|---|---|
+| [AstronautCheetah/frame-tweaks](https://github.com/AstronautCheetah/frame-tweaks) | 2.19.2 | works | 2026-11-13 | 0.7.4: status of 31 tweaks, signed update from 0.7.1-0.7.3, offline tweak tests |
 
 ## SteamOS 0.5.6, build 20261022.6153909 (beta)
 
