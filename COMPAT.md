@@ -3,7 +3,13 @@
 Built from the `tested:` records in each project's `steam-frame.yml` ([spec](spec/steam-frame-yml.md)). Newest headset version first.
 Each line is one maintainer's or user's report; add yours to the project's manifest.
 
-Generated 2026-11-16.
+Generated 2026-11-23.
+
+## SteamOS 0.5.9, build 20261113.6134720 (beta)
+
+| Project | SteamVR | Result | Tested | Notes |
+|---|---|---|---|---|
+| [SteffanDonal/SRanipatch](https://github.com/SteffanDonal/SRanipatch) | 2.19.3 | works | 2026-11-13 |  |
 
 ## SteamOS 0.5.8, build 20261106.6144341 (beta)
 
